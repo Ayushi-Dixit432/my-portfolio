@@ -8,6 +8,7 @@ const skills = [
   { name: "React", level: 75, icon: "⚛️" },
   { name: "Node.js", level: 70, icon: "🟢" },
 ];
+// jegdyig2edi
 
 const Skills = () => {
   return (
